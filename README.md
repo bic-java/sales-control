@@ -1,2 +1,2 @@
 # sales-control
-J&amp;J Web
+Este repositorio fue movido a https://bitbucket.org/bicjava/sales-control
